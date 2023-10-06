@@ -1,0 +1,127 @@
+/* Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap');
+
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+/* Common */
+.section-heading {
+    color: #14213d;
+}
+
+.empty-div {
+    height: 100px;
+}
+
+
+
+/* Navbar */
+.navbar-section {
+    background-color: #fff;
+}
+.nav-li {
+    margin-right: 30px;
+}
+
+
+/* Hero */
+.hero-text {
+    color: #475374;
+}
+
+.my-name {
+    color: #6C63FF;
+}
+
+
+
+/* About section */
+.secondary-text {
+    font-size: 21px;
+    color: #45506E;
+}
+
+
+/* Skills section */
+.skills-card {
+    border: none;
+}
+
+.skills-card:hover {
+    /* scale: 1.08; */
+    border: solid 2px #14213d;
+}
+
+.card-text {
+    color: #45506E;
+}
+
+
+
+/* Projects section */
+.projects-card {
+    border: none;
+}
+
+
+
+
+
+
+/* Links */
+
+.nav-button {
+    font-weight: 600;
+}
+
+
+
+/* Buttons */
+.button-sec {
+    background-color: #14213d;
+    color: aliceblue;
+    padding: 6px 35px;
+}
+
+.button-sec:hover {
+    background-color: #475374;
+    color: aliceblue;
+    transition: 0.6s ease;
+}
+
+.project-button {
+    background-color: #B8C5E9;
+}
+
+.project-button:hover {
+    color: aliceblue;
+    background-color: #14213d;
+    transition: 0.6s ease;
+}
+
+.get-in-touch-buttons {
+    color: aliceblue;
+    background-color: #14213d;
+}
+
+.get-in-touch-buttons:hover {
+    background-color: #B8C5E9;
+    color: #14213d;
+    transition: 0.6s ease;
+}
+
+.github-button {
+    background-color: #14213d;
+    color: aliceblue;
+    border-radius: 30px;
+}
+
+.github-button:hover {
+    background-color: #B8C5E9;
+    color: #14213d;
+    transition: 0.6s ease;
+}
+
+
+
